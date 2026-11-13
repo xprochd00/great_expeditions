@@ -158,15 +158,16 @@ expedition's primary sources and from established scholarship.
 
 Rules for the content:
 
-- **Every node has a date** (month and year) and a **source reference** in the content data.
-  The date is shown on the map, so players see the expedition's timeline as they move.
+- **Every node has a date** (month and year). The date is shown on the map, so players see
+  the expedition's timeline as they move.
 - **Disputed details are labelled as disputed.** For example, parts of Marco Polo's route
   are reconstructed from his book, and historians disagree about some of them. Any question
   that touches disputed history says "according to Polo's account".
 - **Every simplification is listed** in a "History notes" panel for each explorer, which can
   be opened from the explorer selection screen and from the journal.
-- **All history questions are checked against at least two reliable sources** before they
-  are released.
+- **Fact-checking and source attribution come in a later phase** and are not part of the
+  MVP (§7.3). The content format already has a `sources` field, so references can be added
+  later without changing anything else.
 
 ### 2.1 Marco Polo — the journey to Kublai Khan (1271–1275)
 
@@ -673,7 +674,7 @@ play and other languages can be added later without rewriting the game.
 | Items | Spyglass, Compass, Provisions, Medicine Chest, Rumour (rival items can be switched off) |
 | History | Dated nodes, History notes panel, "What really happened" in the journal |
 | Learning | Charting, revisits, end-of-game journal |
-| Language | English only, but **every text is in localisation files from the start** (§9) |
+| Language | English only, but **all interface text and question wording is in localisation files from the start** (§9) |
 | Visuals | Vintage map style, route and node symbols, animated tokens and threats, polar inset |
 
 ### 7.2 Content budget for the MVP
@@ -689,7 +690,8 @@ play and other languages can be added later without rewriting the game.
   - about 8 Expedition Riddles, each in 2 level versions
   - about 8 Landmark Challenges, each in 2 level versions
 - **Shared:** about 25 Crossroads questions.
-- **In total, roughly 470 hand-written items.** Each history item has two source references.
+- **In total, roughly 470 hand-written items.** Fact-checking and source references are not
+  part of the MVP.
 - **Map data:** Natural Earth 1:50m countries, plus selected rivers, lakes, mountain ranges
   and historical regions (simplified, with hit zones), and an Antarctic inset.
 
@@ -697,7 +699,9 @@ play and other languages can be added later without rewriting the game.
 
 - **Online multiplayer:** server, lobby with room codes, reconnecting, simultaneous hidden
   choices
-- More languages, starting with the translation process (§9)
+- **Historical fact-checking and source attribution** for all history content (nodes,
+  landmark challenges, historical-geography questions, History notes)
+- More languages, in the order Slovak, Czech, German, Spanish, French (§9)
 - Full-length routes (36 steps, a second fork where history provides one), trading posts,
   more items
 - Recalibrating question ratings from real answer data
@@ -771,9 +775,50 @@ Principles:
    engine, keeps the authoritative state for each room, and adds a lobby, reconnecting
    (by replaying events) and buzz ordering by server receipt time.
 
-Suggested stack (to confirm before building): TypeScript, Vite, a lightweight UI framework
-(Svelte or React), d3-geo for building the map SVG ahead of time, and Vitest for testing the
-engine.
+### 8.1 Tech stack
+
+| Part | Choice |
+|---|---|
+| Language and build | **TypeScript**, **Vite** |
+| UI | **React**. The map is rendered as React SVG components (countries, routes, nodes, tokens), so map elements are ordinary components with props and event handlers. |
+| UI state | A small store (e.g., Zustand) that holds the current `PlayerView` from the session. It holds no game rules. |
+| Map preparation | d3-geo + TopoJSON in a **build-time script** that projects Natural Earth data into ready-made SVG paths, hit zones and near-miss rings. The browser doesn't project anything while playing. |
+| Localisation | An ICU MessageFormat library (e.g., FormatJS / react-intl) |
+| Tests | Vitest for the engine and content checks; Playwright for a few end-to-end smoke tests |
+| Online (later) | A Node server with WebSockets that imports the same `engine` module |
+
+### 8.2 Modules
+
+Gameplay rules, map data, questions and historical content are kept in separate modules.
+Content is data, not code.
+
+```
+src/
+  engine/          game rules: state, commands, events, seeded random numbers
+                   (pure TypeScript: no React, no DOM, no network)
+  session/         LocalSession (hot-seat); RemoteSession later
+  ui/              React components: map, player cards, challenge letter, journal
+  i18n/            loading messages, ICU formatting, switching language
+content/
+  map/             generated SVG geometry, feature IDs, hit zones, near-miss rings
+  questions/       language-neutral question records + generators (capitals, flags, locate)
+  history/         expeditions: routes, nodes, dates, forks, landmark challenges, history notes
+  locales/
+    en/            ui.json · questions.json · history.json · places.json
+    sk/ …          (added later, same files)
+tools/             build scripts: map generation, content checks, missing-translation report
+```
+
+Dependency rules:
+
+- `engine` reads content only through typed loaders. It never imports `ui`, `session` or
+  `i18n`, and it never handles display text, only message keys.
+- `ui` depends on `session` and `i18n`. It never changes game state directly.
+- `content` has no code at all; a content check in `tools/` validates it (IDs exist, every
+  question has an English string, routes are connected).
+- Adding a language means adding a `content/locales/<lang>/` folder. Adding an expedition
+  means adding data to `content/history/` and `content/questions/`. Neither requires
+  changing the engine.
 
 ---
 
@@ -792,8 +837,8 @@ English is the only MVP language, but nothing in the code or content assumes Eng
   (Unicode's locale data) or a translated dataset, so generated questions work in any
   language as soon as the templates are translated.
 - **Historical names** (Kristiania, Khanbaliq, Quelimane, Santa Lucía bay) are stored with a
-  name for each language plus the modern name. Spellings of names in other languages often
-  differ (for example "Benátky" for Venice in Czech).
+  name for each language plus the modern name. Names often differ between languages (Venice
+  is "Benátky" in Slovak and Czech and "Venedig" in German).
 - **Difficulty can differ by language.** How well-known a place is depends on where the
   player lives (Central European players know Central Europe better). Ratings can be
   overridden per language, and fall back to the global rating.
@@ -803,6 +848,12 @@ English is the only MVP language, but nothing in the code or content assumes Eng
 - **Translation process:** content packs are versioned; missing strings fall back to
   English and are reported. Each language gets a native-speaker review of its history
   content.
+- **Language roadmap:** English (MVP) → **Slovak** → Czech → German → Spanish → French.
+  All of these use the Latin alphabet, so the fonts must cover Latin Extended-A, including
+  the Slovak and Czech letters ľ ĺ ŕ ť ď ň ô ä ř ů ě. EB Garamond and Cormorant Garamond both
+  do. Slovak and Czech have grammatical cases ("v Benátkach", "do Benátok"), so templates
+  that put a place name inside a sentence must use ICU `select` or a separate string per
+  question, never string concatenation.
 
 ---
 
@@ -839,13 +890,13 @@ English is the only MVP language, but nothing in the code or content assumes Eng
 |---|---|
 | Platform | Desktop hot-seat for the MVP; online multiplayer with each player on their own computer added later on the same engine (§8). No TV + phones setup. |
 | Audience | Broad: from schoolchildren to geography enthusiasts. Four levels (Beginner, Intermediate, Advanced, Expert), set for the whole table or per player, adjustable between acts (§3.3–3.4). |
-| Language | English for the MVP, with localisation built in from the start (§9). |
+| Language | English for the MVP, with all interface text and questions stored outside the code from the start. Then Slovak, Czech, German, Spanish, French (§9). |
+| Tech stack | TypeScript + Vite + React, with separate modules for engine, map data, questions, history content and localisation (§8). |
+| Fact-checking | Not part of the MVP. Historical verification and source attribution come in a later phase (§7.3). |
 | History | One documented expedition per explorer. Simplifications are labelled, and fork alternatives are real routes of the period (§2.0). |
 
-## Appendix C — Open questions
+## Appendix C — Next step
 
-1. **Tech stack:** is the suggested TypeScript + Vite + Svelte/React stack acceptable?
-2. **Fact checking:** who reviews the history content before release? An external
-   historian or teacher, even informally, would help the accuracy goal.
-3. **Second language:** which language comes after English? This affects which font to
-   choose and the first translation test.
+All design decisions for the MVP are made. The next step is an implementation plan: set up
+the project and modules, build the engine with tests, generate the map, then build the
+hot-seat UI and the first content pack.
