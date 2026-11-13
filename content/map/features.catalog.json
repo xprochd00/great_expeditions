@@ -1,0 +1,1838 @@
+[
+ {
+  "id": "river.amu-darya",
+  "layer": "rivers",
+  "match": [
+   "Amu  Darya"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.syr-darya",
+  "layer": "rivers",
+  "match": [
+   "Syr Darya"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.panj",
+  "layer": "rivers",
+  "match": [
+   "Panj"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "river.tarim",
+  "layer": "rivers",
+  "match": [
+   "Tarim"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.yarkand",
+  "layer": "rivers",
+  "match": [
+   "Yarkant"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "river.yellow",
+  "layer": "rivers",
+  "match": [
+   "Huang"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.yangtze",
+  "layer": "rivers",
+  "match": [
+   "Chang Jiang",
+   "Yangtze"
+  ],
+  "rating": 4,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.tigris",
+  "layer": "rivers",
+  "match": [
+   "Tigris",
+   "Dicle"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.euphrates",
+  "layer": "rivers",
+  "match": [
+   "Euphrates",
+   "Firat",
+   "Al Furat"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.helmand",
+  "layer": "rivers",
+  "match": [
+   "Helmand"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "river.indus",
+  "layer": "rivers",
+  "match": [
+   "Indus"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.danube",
+  "layer": "rivers",
+  "match": [
+   "Danube",
+   "Donau"
+  ],
+  "rating": 4,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.po",
+  "layer": "rivers",
+  "match": [
+   "Po"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.rhine",
+  "layer": "rivers",
+  "match": [
+   "Rhine",
+   "Rhein",
+   "Rhin"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.elbe",
+  "layer": "rivers",
+  "match": [
+   "Elbe"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.vistula",
+  "layer": "rivers",
+  "match": [
+   "Vistula"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.glomma",
+  "layer": "rivers",
+  "match": [
+   "Glomma"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "river.thames",
+  "layer": "rivers",
+  "match": [
+   "Thames"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.nile",
+  "layer": "rivers",
+  "match": [
+   "Nile",
+   "El Bahr el Abyad",
+   "Bahr el Jebel",
+   "Albert Nile",
+   "Victoria Nile",
+   "Rosetta Branch",
+   "Damietta Branch"
+  ],
+  "rating": 3,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.jordan",
+  "layer": "rivers",
+  "match": [
+   "Jordan"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.niger",
+  "layer": "rivers",
+  "match": [
+   "Niger"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.senegal",
+  "layer": "rivers",
+  "match": [
+   "Sénégal"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.volta",
+  "layer": "rivers",
+  "match": [
+   "Volta"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.congo",
+  "layer": "rivers",
+  "match": [
+   "Congo",
+   "Lualaba"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.kasai",
+  "layer": "rivers",
+  "match": [
+   "Kasai"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "river.kwango",
+  "layer": "rivers",
+  "match": [
+   "Kwango"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "river.zambezi",
+  "layer": "rivers",
+  "match": [
+   "Zambezi"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.kafue",
+  "layer": "rivers",
+  "match": [
+   "Kafue"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "river.shire",
+  "layer": "rivers",
+  "match": [
+   "Shire"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "river.ruvuma",
+  "layer": "rivers",
+  "match": [
+   "Ruvuma"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "river.limpopo",
+  "layer": "rivers",
+  "match": [
+   "Limpopo"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.orange",
+  "layer": "rivers",
+  "match": [
+   "Orange"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.okavango",
+  "layer": "rivers",
+  "match": [
+   "Okavango",
+   "Cubango"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.vaal",
+  "layer": "rivers",
+  "match": [
+   "Vaal"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "river.amazon",
+  "layer": "rivers",
+  "match": [
+   "Amazonas"
+  ],
+  "rating": 3,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.parana",
+  "layer": "rivers",
+  "match": [
+   "Paraná"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.uruguay",
+  "layer": "rivers",
+  "match": [
+   "Uruguay"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.sao-francisco",
+  "layer": "rivers",
+  "match": [
+   "São  Francisco"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.orinoco",
+  "layer": "rivers",
+  "match": [
+   "Orinoco"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.chubut",
+  "layer": "rivers",
+  "match": [
+   "Chubut"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "river.murray",
+  "layer": "rivers",
+  "match": [
+   "Murray"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.mekong",
+  "layer": "rivers",
+  "match": [
+   "Mekong"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "river.irrawaddy",
+  "layer": "rivers",
+  "match": [
+   "Ayeyarwady"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.tagus",
+  "layer": "rivers",
+  "match": [
+   "Tajo",
+   "Tejo"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.douro",
+  "layer": "rivers",
+  "match": [
+   "Duero"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.ebro",
+  "layer": "rivers",
+  "match": [
+   "Ebro"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "river.daugava",
+  "layer": "rivers",
+  "match": [
+   "Daugava"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "lake.aral",
+  "layer": "lakes",
+  "match": [
+   "South Aral Sea",
+   "North Aral Sea"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "lake.balkhash",
+  "layer": "lakes",
+  "match": [
+   "Lake Balkhash"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "lake.issyk-kul",
+  "layer": "lakes",
+  "match": [
+   "Issyk-Kul"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "lake.baikal",
+  "layer": "lakes",
+  "match": [
+   "Lake Baikal"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "lake.qinghai",
+  "layer": "lakes",
+  "match": [
+   "Qinghai Hu"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "lake.urmia",
+  "layer": "lakes",
+  "match": [
+   "Lake Urmia"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "lake.van",
+  "layer": "lakes",
+  "match": [
+   "Lake Van"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "lake.sevan",
+  "layer": "lakes",
+  "match": [
+   "Lake Sevan"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "lake.dead-sea",
+  "layer": "lakes",
+  "match": [
+   "Dead Sea"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "lake.galilee",
+  "layer": "lakes",
+  "match": [
+   "Sea of Galilee"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "lake.victoria",
+  "layer": "lakes",
+  "match": [
+   "Lake Victoria"
+  ],
+  "rating": 4,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "lake.tanganyika",
+  "layer": "lakes",
+  "match": [
+   "Lake Tanganyika"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "lake.malawi",
+  "layer": "lakes",
+  "match": [
+   "Lake Malawi"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "lake.chad",
+  "layer": "lakes",
+  "match": [
+   "Lake Chad"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "lake.volta",
+  "layer": "lakes",
+  "match": [
+   "Lake Volta"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "lake.kariba",
+  "layer": "lakes",
+  "match": [
+   "Lake Kariba"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "lake.bangweulu",
+  "layer": "lakes",
+  "match": [
+   "Lake Bangweulu"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "lake.mweru",
+  "layer": "lakes",
+  "match": [
+   "Lac Moeru"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "lake.kivu",
+  "layer": "lakes",
+  "match": [
+   "Lake Kivu"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "lake.titicaca",
+  "layer": "lakes",
+  "match": [
+   "Lago Titicaca"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "lake.eyre",
+  "layer": "lakes",
+  "match": [
+   "Lake Eyre North"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "lake.vanern",
+  "layer": "lakes",
+  "match": [
+   "Vänern"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "lake.ladoga",
+  "layer": "lakes",
+  "match": [
+   "Lake Ladoga"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "lake.tonle-sap",
+  "layer": "lakes",
+  "match": [
+   "Tonlé Sap"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "lake.geneva",
+  "layer": "lakes",
+  "match": [
+   "Lake Geneva"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "lake.balaton",
+  "layer": "lakes",
+  "match": [
+   "Lake Balaton"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.pamirs",
+  "layer": "regions",
+  "match": [
+   "PAMIRS"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.hindu-kush",
+  "layer": "regions",
+  "match": [
+   "HINDU KUSH"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.tian-shan",
+  "layer": "regions",
+  "match": [
+   "TIAN SHAN"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.karakoram",
+  "layer": "regions",
+  "match": [
+   "KARAKORAM RA."
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.kunlun",
+  "layer": "regions",
+  "match": [
+   "KUNLUN MOUNTAINS"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.himalayas",
+  "layer": "regions",
+  "match": [
+   "HIMALAYAS"
+  ],
+  "rating": 3,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "range.altai",
+  "layer": "regions",
+  "match": [
+   "ALTAY MOUNTAINS"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.zagros",
+  "layer": "regions",
+  "match": [
+   "ZAGROS MOUNTAINS"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.elburz",
+  "layer": "regions",
+  "match": [
+   "ELBURZ MTS."
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.caucasus",
+  "layer": "regions",
+  "match": [
+   "CAUCASUS MTS."
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "range.pontic",
+  "layer": "regions",
+  "match": [
+   "PONTIC MOUNTAINS"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "range.alps",
+  "layer": "regions",
+  "match": [
+   "ALPS"
+  ],
+  "rating": 3,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "range.apennines",
+  "layer": "regions",
+  "match": [
+   "APPENNINI"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "range.pyrenees",
+  "layer": "regions",
+  "match": [
+   "PYRENEES"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "range.atlas",
+  "layer": "regions",
+  "match": [
+   "ATLAS MOUNTAINS",
+   "HAUT ATLAS"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "range.dinaric",
+  "layer": "regions",
+  "match": [
+   "Dinaric Alps"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.carpathians",
+  "layer": "regions",
+  "match": [
+   "CARPATHIAN MOUNTAINS"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "range.scandinavian",
+  "layer": "regions",
+  "match": [
+   "KJØLEN MOUNTAINS"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.andes",
+  "layer": "regions",
+  "match": [
+   "ANDES"
+  ],
+  "rating": 3,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "range.great-dividing",
+  "layer": "regions",
+  "match": [
+   "GREAT DIVIDING RANGE"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.drakensberg",
+  "layer": "regions",
+  "match": [
+   "DRAKENSBERG"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.ethiopian",
+  "layer": "regions",
+  "match": [
+   "ETHIOPIAN HIGHLANDS"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "range.muchinga",
+  "layer": "regions",
+  "match": [
+   "Muchinga Mts."
+  ],
+  "rating": 12,
+  "minLevel": "expert"
+ },
+ {
+  "id": "range.mitumba",
+  "layer": "regions",
+  "match": [
+   "MITUMBA MTS."
+  ],
+  "rating": 12,
+  "minLevel": "expert"
+ },
+ {
+  "id": "desert.taklimakan",
+  "layer": "regions",
+  "match": [
+   "TAKLIMAKAN DESERT"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "desert.gobi",
+  "layer": "regions",
+  "match": [
+   "GOBI DESERT"
+  ],
+  "rating": 4,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "desert.karakum",
+  "layer": "regions",
+  "match": [
+   "GARAGUM DESERT"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "desert.kyzylkum",
+  "layer": "regions",
+  "match": [
+   "QIZILQUM DESERT"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "desert.lut",
+  "layer": "regions",
+  "match": [
+   "LUT DESERT"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "desert.kalahari",
+  "layer": "regions",
+  "match": [
+   "KALAHARI DESERT"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "desert.namib",
+  "layer": "regions",
+  "match": [
+   "NAMIB DESERT"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "desert.sahara",
+  "layer": "regions",
+  "match": [
+   "SAHARA"
+  ],
+  "rating": 3,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "desert.atacama",
+  "layer": "regions",
+  "match": [
+   "DESIERTO DE ATACAMA"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "desert.syrian",
+  "layer": "regions",
+  "match": [
+   "SYRIAN DESERT"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "desert.rub-al-khali",
+  "layer": "regions",
+  "match": [
+   "RUB’ AL KHALI"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "desert.great-victoria",
+  "layer": "regions",
+  "match": [
+   "GREAT VICTORIA DESERT"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "desert.thar",
+  "layer": "regions",
+  "match": [
+   "THAR DESERT"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "plateau.tibet",
+  "layer": "regions",
+  "match": [
+   "PLATEAU OF TIBET"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "basin.tarim",
+  "layer": "regions",
+  "match": [
+   "TARIM BASIN"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "basin.congo",
+  "layer": "regions",
+  "match": [
+   "CONGO BASIN"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "area.hexi",
+  "layer": "regions",
+  "match": [
+   "Hexi Corridor"
+  ],
+  "rating": 12,
+  "minLevel": "expert"
+ },
+ {
+  "id": "valley.fergana",
+  "layer": "regions",
+  "match": [
+   "Fergana Valley"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "area.patagonia",
+  "layer": "regions",
+  "match": [
+   "PATAGONIA"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "plain.pampas",
+  "layer": "regions",
+  "match": [
+   "PAMPAS"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "wetland.pantanal",
+  "layer": "regions",
+  "match": [
+   "PANTANAL"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "plain.gran-chaco",
+  "layer": "regions",
+  "match": [
+   "GRAN CHACO"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "area.mesopotamia",
+  "layer": "regions",
+  "match": [
+   "Mesopotamia"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "area.anatolia",
+  "layer": "regions",
+  "match": [
+   "ANATOLIA"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "area.lapland",
+  "layer": "regions",
+  "match": [
+   "LAPLAND"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "area.jutland",
+  "layer": "regions",
+  "match": [
+   "JUTLAND"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "plateau.katanga",
+  "layer": "regions",
+  "match": [
+   "KATANGA PLATEAU"
+  ],
+  "rating": 12,
+  "minLevel": "expert"
+ },
+ {
+  "id": "plateau.bie",
+  "layer": "regions",
+  "match": [
+   "Bié Plateau"
+  ],
+  "rating": 12,
+  "minLevel": "expert"
+ },
+ {
+  "id": "delta.zambezi",
+  "layer": "regions",
+  "match": [
+   "Zambezi Delta"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "delta.niger",
+  "layer": "regions",
+  "match": [
+   "Niger Delta"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "valley.rift",
+  "layer": "regions",
+  "match": [
+   "GREAT RIFT VALLEY"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "area.sahel",
+  "layer": "regions",
+  "match": [
+   "SAHEL"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "island.sicily",
+  "layer": "regions",
+  "match": [
+   "Sicilia"
+  ],
+  "rating": 4,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "island.sardinia",
+  "layer": "regions",
+  "match": [
+   "Sardegna"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "island.corsica",
+  "layer": "regions",
+  "match": [
+   "Corse"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "islands.balearic",
+  "layer": "regions",
+  "match": [
+   "Balearic Islands"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "islands.canary",
+  "layer": "regions",
+  "match": [
+   "ISLAS CANARIAS"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "islands.azores",
+  "layer": "regions",
+  "match": [
+   "AÇORES"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "island.tasmania",
+  "layer": "regions",
+  "match": [
+   "TASMANIA"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "island.new-guinea",
+  "layer": "regions",
+  "match": [
+   "NEW GUINEA"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "island.borneo",
+  "layer": "regions",
+  "match": [
+   "BORNEO"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "island.sumatra",
+  "layer": "regions",
+  "match": [
+   "SUMATRA"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "island.java",
+  "layer": "regions",
+  "match": [
+   "JAVA"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "island.sulawesi",
+  "layer": "regions",
+  "match": [
+   "SULAWESI"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "island.mindanao",
+  "layer": "regions",
+  "match": [
+   "MINDANAO"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "island.luzon",
+  "layer": "regions",
+  "match": [
+   "LUZON"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "island.palawan",
+  "layer": "regions",
+  "match": [
+   "Palawan"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "island.timor",
+  "layer": "regions",
+  "match": [
+   "TIMOR"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "island.halmahera",
+  "layer": "regions",
+  "match": [
+   "Halmahera"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "islands.moluccas",
+  "layer": "regions",
+  "match": [
+   "MOLUCCAS"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "island.tierra-del-fuego",
+  "layer": "regions",
+  "match": [
+   "TIERRA DEL FUEGO"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "islands.falkland",
+  "layer": "regions",
+  "match": [
+   "FALKLAND IS."
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "island.chiloe",
+  "layer": "regions",
+  "match": [
+   "Isla de Chiloé"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "island.nz-south",
+  "layer": "regions",
+  "match": [
+   "SOUTH ISLAND"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "island.nz-north",
+  "layer": "regions",
+  "match": [
+   "NORTH ISLAND"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "islands.mascarene",
+  "layer": "regions",
+  "match": [
+   "MASCARENE ISLANDS"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "island.great-britain",
+  "layer": "regions",
+  "match": [
+   "GREAT BRITAIN"
+  ],
+  "rating": 3,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "islands.svalbard",
+  "layer": "regions",
+  "match": [
+   "SVALBARD"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "island.guam",
+  "layer": "regions",
+  "match": [
+   "Guam"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "island.greenland",
+  "layer": "regions",
+  "match": [
+   "GREENLAND"
+  ],
+  "rating": 3,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "islands.south-shetland",
+  "layer": "regions",
+  "match": [
+   "South Shetland Islands"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "island.hainan",
+  "layer": "regions",
+  "match": [
+   "HAINAN"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "sea.adriatic",
+  "layer": "marine",
+  "match": [
+   "Adriatic Sea"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "sea.aegean",
+  "layer": "marine",
+  "match": [
+   "Aegean Sea"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "sea.ionian",
+  "layer": "marine",
+  "match": [
+   "Ionian Sea"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "sea.tyrrhenian",
+  "layer": "marine",
+  "match": [
+   "Tyrrhenian Sea"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "sea.black",
+  "layer": "marine",
+  "match": [
+   "Black Sea"
+  ],
+  "rating": 3,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "sea.caspian",
+  "layer": "marine",
+  "match": [
+   "Caspian Sea"
+  ],
+  "rating": 4,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "gulf.persian",
+  "layer": "marine",
+  "match": [
+   "Persian Gulf"
+  ],
+  "rating": 4,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "gulf.oman",
+  "layer": "marine",
+  "match": [
+   "Gulf of Oman"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "sea.red",
+  "layer": "marine",
+  "match": [
+   "Red Sea"
+  ],
+  "rating": 4,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "gulf.aden",
+  "layer": "marine",
+  "match": [
+   "Gulf of Aden"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "sea.arabian",
+  "layer": "marine",
+  "match": [
+   "Arabian Sea"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "sea.north",
+  "layer": "marine",
+  "match": [
+   "North Sea"
+  ],
+  "rating": 4,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "sea.baltic",
+  "layer": "marine",
+  "match": [
+   "Baltic Sea"
+  ],
+  "rating": 4,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "sea.norwegian",
+  "layer": "marine",
+  "match": [
+   "Norwegian Sea"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "gulf.bothnia",
+  "layer": "marine",
+  "match": [
+   "Gulf of Bothnia"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "gulf.finland",
+  "layer": "marine",
+  "match": [
+   "Gulf of Finland"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "channel.english",
+  "layer": "marine",
+  "match": [
+   "English Channel"
+  ],
+  "rating": 4,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "bay.biscay",
+  "layer": "marine",
+  "match": [
+   "Bay of Biscay"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "strait.gibraltar",
+  "layer": "marine",
+  "match": [
+   "Strait of Gibraltar"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "gulf.guinea",
+  "layer": "marine",
+  "match": [
+   "Gulf of Guinea"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "estuary.plata",
+  "layer": "marine",
+  "match": [
+   "Río de la Plata"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "passage.drake",
+  "layer": "marine",
+  "match": [
+   "Drake Passage"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "sea.scotia",
+  "layer": "marine",
+  "match": [
+   "Scotia Sea"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "sea.weddell",
+  "layer": "marine",
+  "match": [
+   "Weddell Sea"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "sea.ross",
+  "layer": "marine",
+  "match": [
+   "Ross Sea"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "sea.tasman",
+  "layer": "marine",
+  "match": [
+   "Tasman Sea"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "sea.coral",
+  "layer": "marine",
+  "match": [
+   "Coral Sea"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "reef.great-barrier",
+  "layer": "marine",
+  "match": [
+   "Great Barrier Reef"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "gulf.carpentaria",
+  "layer": "marine",
+  "match": [
+   "Gulf of Carpentaria"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "sea.arafura",
+  "layer": "marine",
+  "match": [
+   "Arafura Sea"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "sea.timor",
+  "layer": "marine",
+  "match": [
+   "Timor Sea"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "bight.great-australian",
+  "layer": "marine",
+  "match": [
+   "Great Australian Bight"
+  ],
+  "rating": 9,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "sea.south-china",
+  "layer": "marine",
+  "match": [
+   "South China Sea"
+  ],
+  "rating": 5,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "sea.philippine",
+  "layer": "marine",
+  "match": [
+   "Philippine Sea"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "sea.sulu",
+  "layer": "marine",
+  "match": [
+   "Sulu Sea"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "sea.celebes",
+  "layer": "marine",
+  "match": [
+   "Celebes Sea"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "sea.java",
+  "layer": "marine",
+  "match": [
+   "Java Sea"
+  ],
+  "rating": 8,
+  "minLevel": "advanced"
+ },
+ {
+  "id": "sea.banda",
+  "layer": "marine",
+  "match": [
+   "Banda Sea"
+  ],
+  "rating": 10,
+  "minLevel": "expert"
+ },
+ {
+  "id": "sea.molucca",
+  "layer": "marine",
+  "match": [
+   "Molucca Sea"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "strait.malacca",
+  "layer": "marine",
+  "match": [
+   "Strait of Malacca"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "strait.makassar",
+  "layer": "marine",
+  "match": [
+   "Makassar Strait"
+  ],
+  "rating": 11,
+  "minLevel": "expert"
+ },
+ {
+  "id": "channel.mozambique",
+  "layer": "marine",
+  "match": [
+   "Mozambique Channel"
+  ],
+  "rating": 6,
+  "minLevel": "intermediate"
+ },
+ {
+  "id": "gulf.thailand",
+  "layer": "marine",
+  "match": [
+   "Gulf of Thailand"
+  ],
+  "rating": 7,
+  "minLevel": "advanced"
+ }
+]

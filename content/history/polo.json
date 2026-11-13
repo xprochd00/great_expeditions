@@ -1,0 +1,41 @@
+{
+ "id": "polo",
+ "nodes": [
+  {"id":"venice","lon":12.34,"lat":45.44,"date":"1271","type":"start","terrain":"coast","region":"mediterranean","act":1},
+  {"id":"eastern-med","lon":28.5,"lat":34.6,"date":"1271","type":"path","terrain":"sea","region":"mediterranean","act":1},
+  {"id":"acre","lon":35.07,"lat":32.93,"date":"1271","type":"landmark","terrain":"coast","region":"mediterranean","act":1},
+  {"id":"ayas","lon":35.79,"lat":36.77,"date":"1271","type":"path","terrain":"coast","region":"anatolia-caucasus","act":1},
+  {"id":"sivas","lon":37.02,"lat":39.75,"date":"1272","approx":true,"type":"path","terrain":"highland","region":"anatolia-caucasus","act":1},
+  {"id":"erzurum","lon":41.27,"lat":39.9,"date":"1272","approx":true,"type":"hazard","terrain":"mountain","region":"anatolia-caucasus","act":1},
+  {"id":"ararat","lon":44.1,"lat":39.55,"date":"1272","approx":true,"type":"discovery","terrain":"mountain","region":"anatolia-caucasus","act":1},
+  {"id":"tabriz","lon":46.29,"lat":38.08,"date":"1272","approx":true,"type":"checkpoint","terrain":"land","region":"anatolia-caucasus","act":1},
+  {"id":"saveh","lon":50.36,"lat":35.02,"date":"1272","approx":true,"type":"landmark","terrain":"land","region":"persia","act":2},
+  {"id":"yazd","lon":54.36,"lat":31.9,"date":"1272","approx":true,"type":"path","terrain":"desert","region":"persia","act":2},
+  {"id":"kerman","lon":57.08,"lat":30.28,"date":"1272","approx":true,"type":"path","terrain":"land","region":"persia","act":2},
+  {"id":"hormuz","lon":56.45,"lat":27.1,"date":"1272","approx":true,"type":"landmark","terrain":"coast","region":"persia","act":2},
+  {"id":"kuhbanan","lon":56.28,"lat":31.41,"date":"1272","approx":true,"type":"hazard","terrain":"desert","region":"persia","act":2},
+  {"id":"balkh","lon":66.9,"lat":36.76,"date":"1272","approx":true,"type":"landmark","terrain":"land","region":"central-asia","act":2},
+  {"id":"badakhshan","lon":70.58,"lat":37.12,"date":"1273","approx":true,"type":"checkpoint","terrain":"mountain","region":"central-asia","act":2},
+  {"id":"wakhan","lon":72.6,"lat":37.0,"date":"1273","approx":true,"type":"hazard","terrain":"mountain","region":"central-asia","act":3},
+  {"id":"pamir","lon":74.4,"lat":37.9,"date":"1273","approx":true,"type":"hazard","terrain":"mountain","region":"central-asia","act":3},
+  {"id":"kashgar","lon":75.99,"lat":39.47,"date":"1273","approx":true,"type":"path","terrain":"land","region":"china-mongolia","act":3},
+  {"id":"yarkand","lon":77.24,"lat":38.41,"date":"1273","approx":true,"type":"path","terrain":"land","region":"china-mongolia","act":3},
+  {"id":"khotan","lon":79.92,"lat":37.11,"date":"1273","approx":true,"type":"landmark","terrain":"land","region":"china-mongolia","act":3},
+  {"id":"charchan","lon":85.53,"lat":38.13,"date":"1274","approx":true,"type":"discovery","terrain":"desert","region":"china-mongolia","act":3},
+  {"id":"lop","lon":88.17,"lat":39.02,"date":"1274","approx":true,"type":"hazard","terrain":"desert","region":"china-mongolia","act":3},
+  {"id":"aksu","lon":80.26,"lat":41.17,"date":"","type":"path","terrain":"land","region":"china-mongolia","act":3},
+  {"id":"kucha","lon":82.96,"lat":41.72,"date":"","type":"path","terrain":"land","region":"china-mongolia","act":3},
+  {"id":"korla","lon":86.15,"lat":41.73,"date":"","type":"path","terrain":"land","region":"china-mongolia","act":3},
+  {"id":"turpan","lon":89.18,"lat":42.95,"date":"","type":"landmark","terrain":"land","region":"china-mongolia","act":3},
+  {"id":"hami","lon":93.51,"lat":42.83,"date":"","type":"path","terrain":"desert","region":"china-mongolia","act":3},
+  {"id":"shazhou","lon":94.66,"lat":40.14,"date":"1274","approx":true,"type":"landmark","terrain":"desert","region":"china-mongolia","act":3},
+  {"id":"ganzhou","lon":100.45,"lat":38.93,"date":"1274","approx":true,"type":"path","terrain":"land","region":"china-mongolia","act":3},
+  {"id":"shangdu","lon":116.18,"lat":42.36,"date":"1275","type":"finish","terrain":"land","region":"china-mongolia","act":3}
+ ],
+ "sequence": ["venice","eastern-med","acre","ayas","sivas","erzurum","ararat","tabriz","saveh","yazd","kerman","hormuz","kuhbanan","balkh","badakhshan","wakhan","pamir","kashgar",
+  {"fork":"tarim","branches":[
+   {"id":"south","historical":true,"kind":"perilous","nodes":["yarkand","khotan","charchan","lop"]},
+   {"id":"north","historical":false,"kind":"safe","nodes":["aksu","kucha","korla","turpan","hami"]}
+  ]},
+  "shazhou","ganzhou","shangdu"]
+}
