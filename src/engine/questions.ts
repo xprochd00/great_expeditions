@@ -410,7 +410,7 @@ export function checkAnswer(ix: ContentIndex, q: Question, answer: Answer): Answ
   if (answer.type === 'timeout') return { outcome: 'wrong' };
   if (q.input === 'choice') {
     if (answer.type !== 'choice') return { outcome: 'wrong' };
-    return { outcome: answer.index === q.correct ? 'correct' : 'wrong' };
+    return { outcome: answer.index === q.correct ? 'correct' : 'wrong', picked: answer.index };
   }
   if (answer.type !== 'map') return { outcome: 'wrong' };
   const { x, y } = answer;

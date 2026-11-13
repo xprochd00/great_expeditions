@@ -7,7 +7,7 @@ const world = require('world-countries');
 
 // Names that read better in a quiz than the dataset's common name.
 const NAME_OVERRIDES = { UNK: 'Kosovo', PSE: 'Palestine', COD: 'DR Congo', COG: 'Republic of the Congo', CIV: 'Ivory Coast', CZE: 'Czechia', MKD: 'North Macedonia', VAT: 'Vatican City', FSM: 'Micronesia' };
-const CAPITAL_OVERRIDES = { ZAF: 'Pretoria', BOL: 'Sucre', PSE: 'Ramallah', ISR: 'Jerusalem' };
+const CAPITAL_OVERRIDES = { ZAF: 'Pretoria', BOL: 'Sucre', PSE: 'Ramallah', ISR: 'Jerusalem', LKA: 'Sri Jayawardenepura Kotte', SWZ: 'Mbabane' };
 
 const countries = [];
 const names = {};

@@ -857,6 +857,24 @@ English is the only MVP language, but nothing in the code or content assumes Eng
 
 ---
 
+## 10. MVP implementation notes
+
+What the first playable version does differently from the full design, and why.
+
+- **Routes are 22–25 steps**, not exactly 24, because every node is a real stop and the acts
+  follow the real stages of each journey. Progress is compared as a percentage of the route.
+- **Checkpoints** are the start and the end of Acts I and II. Other famous places are landmarks.
+- **One fork per explorer.** Polo's Hormuz detour is on the main route, because the Polos
+  really went there and turned back.
+- **Crossroads on a shared screen** end at the first correct answer (there is no 2nd-place
+  reward), because the answer is visible to everyone once it is given.
+- **Amundsen's Final Challenge** asks for New Zealand (basic) or Argentina (advanced). The Ross
+  Sea, first planned for it, is split across the edges of the world map at the 180° meridian.
+- **Balance** (bots answering 90% / 70% / 50% at the three tiers, 200 four-player games):
+  about 12 rounds per game, every explorer wins 21–28% of games. Catches are rarer than the
+  design target (about 0.6 per player per game) because the bots retreat to Scout when the
+  threat is close. Watch this in playtests before changing threat speeds.
+
 ## Appendix A — Question record (sketch)
 
 ```json

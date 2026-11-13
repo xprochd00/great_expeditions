@@ -70,6 +70,7 @@ export type Outcome = 'correct' | 'near' | 'wrong';
 export interface AnswerResult {
   outcome: Outcome;
   clicked?: string; // place id of the country clicked, if any
+  picked?: number; // option chosen in a multiple-choice question
   click?: [number, number];
 }
 

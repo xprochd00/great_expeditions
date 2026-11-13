@@ -11,7 +11,8 @@
     "typecheck": "tsc -b",
     "build:map": "node tools/build-map.mjs",
     "build:countries": "node tools/build-countries.mjs",
-    "check:content": "vite-node tools/check-content.ts"
+    "check:content": "vite-node tools/check-content.ts",
+    "balance": "BALANCE=1 vitest run src/engine/balance.test.ts --silent=false"
   },
   "dependencies": {
     "d3-geo": "^3.1.2",
@@ -23,6 +24,7 @@
   },
   "devDependencies": {
     "@types/d3-geo": "^3.1.1",
+    "@types/node": "^26.6.6",
     "@types/react": "^18.3.31",
     "@types/react-dom": "^18.3.7",
     "@types/topojson-client": "^3.1.5",
