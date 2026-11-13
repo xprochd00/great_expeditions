@@ -1,0 +1,41 @@
+{
+ "id": "amundsen",
+ "nodes": [
+  {"id":"kristiania","lon":10.75,"lat":59.91,"date":"1910-06","type":"start","terrain":"coast","region":"northern-europe","act":1},
+  {"id":"kristiansand","lon":8.0,"lat":58.15,"date":"1910-08","type":"path","terrain":"coast","region":"northern-europe","act":1},
+  {"id":"north-sea","lon":3.0,"lat":55.0,"date":"1910-08","type":"path","terrain":"sea","region":"northern-europe","act":1},
+  {"id":"biscay","lon":-9.0,"lat":45.0,"date":"1910-08","type":"hazard","terrain":"sea","region":"iberia-macaronesia","act":1},
+  {"id":"madeira","lon":-16.91,"lat":32.65,"date":"1910-09","type":"landmark","terrain":"coast","region":"iberia-macaronesia","act":1},
+  {"id":"off-africa","lon":-23.0,"lat":18.0,"date":"1910-09","type":"path","terrain":"sea","region":"west-africa","act":1},
+  {"id":"equator","lon":-25.0,"lat":0.0,"date":"1910-10","type":"checkpoint","terrain":"sea","region":"west-africa","act":1},
+  {"id":"south-atlantic","lon":-14.0,"lat":-25.0,"date":"1910-10","type":"path","terrain":"sea","region":"southern-ocean","act":2},
+  {"id":"roaring-forties","lon":5.0,"lat":-41.0,"date":"1910-11","type":"hazard","terrain":"sea","region":"southern-ocean","act":2},
+  {"id":"south-of-cape","lon":22.0,"lat":-43.0,"date":"1910-11","type":"path","terrain":"sea","region":"southern-ocean","act":2},
+  {"id":"south-indian","lon":70.0,"lat":-47.0,"date":"1910-12","type":"hazard","terrain":"sea","region":"southern-ocean","act":2},
+  {"id":"south-of-australia","lon":130.0,"lat":-50.0,"date":"1910-12","type":"discovery","terrain":"sea","region":"southern-ocean","act":2},
+  {"id":"ross-pack","lon":-178.0,"lat":-68.0,"date":"1911-01","type":"hazard","terrain":"ice","region":"southern-ocean","act":2},
+  {"id":"framheim","lon":-164.0,"lat":-78.5,"date":"1911-01","type":"checkpoint","terrain":"ice","region":"antarctica","act":2},
+  {"id":"depot-80","lon":-163.6,"lat":-80.0,"date":"1911-10","type":"path","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"depot-81","lon":-163.5,"lat":-81.0,"date":"1911-10","type":"path","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"depot-82","lon":-163.4,"lat":-82.0,"date":"1911-11","type":"path","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"depot-83","lon":-163.2,"lat":-83.0,"date":"1911-11","type":"path","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"depot-84","lon":-163.0,"lat":-84.0,"date":"1911-11","type":"path","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"queen-maud","lon":-163.5,"lat":-85.1,"date":"1911-11","type":"hazard","terrain":"mountain","region":"antarctica","act":3,"inset":true},
+  {"id":"axel-heiberg","lon":-165.0,"lat":-85.6,"date":"1911-11","type":"hazard","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"devils-ballroom","lon":-167.0,"lat":-86.6,"date":"1911-12","type":"hazard","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"ross-shelf-west","lon":178.0,"lat":-82.5,"date":"","type":"path","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"gateway","lon":172.0,"lat":-83.4,"date":"","type":"path","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"beardmore-lower","lon":170.5,"lat":-84.0,"date":"","type":"path","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"cloudmaker","lon":169.5,"lat":-84.6,"date":"","type":"path","terrain":"mountain","region":"antarctica","act":3,"inset":true},
+  {"id":"beardmore-upper","lon":166.0,"lat":-85.4,"date":"","type":"path","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"plateau-west","lon":163.0,"lat":-86.8,"date":"","type":"path","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"polar-plateau","lon":-175.0,"lat":-88.0,"date":"1911-12","type":"path","terrain":"ice","region":"antarctica","act":3,"inset":true},
+  {"id":"south-pole","lon":0.0,"lat":-90.0,"date":"1911-12","type":"finish","terrain":"ice","region":"antarctica","act":3,"inset":true}
+ ],
+ "sequence": ["kristiania","kristiansand","north-sea","biscay","madeira","off-africa","equator","south-atlantic","roaring-forties","south-of-cape","south-indian","south-of-australia","ross-pack","framheim","depot-80","depot-81","depot-82",
+  {"fork":"pole","branches":[
+   {"id":"axel-heiberg","historical":true,"kind":"perilous","nodes":["depot-83","depot-84","queen-maud","axel-heiberg","devils-ballroom"]},
+   {"id":"beardmore","historical":false,"kind":"safe","nodes":["ross-shelf-west","gateway","beardmore-lower","cloudmaker","beardmore-upper","plateau-west"]}
+  ]},
+  "polar-plateau","south-pole"]
+}

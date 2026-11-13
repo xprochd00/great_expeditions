@@ -1,0 +1,38 @@
+{
+ "id": "livingstone",
+ "nodes": [
+  {"id":"cape-town","lon":18.42,"lat":-33.92,"date":"1852-06","type":"start","terrain":"coast","region":"southern-africa","act":1},
+  {"id":"kuruman","lon":23.43,"lat":-27.46,"date":"1852-08","type":"landmark","terrain":"land","region":"southern-africa","act":1},
+  {"id":"kalahari-south","lon":24.6,"lat":-24.2,"date":"1852-12","type":"hazard","terrain":"desert","region":"southern-africa","act":1},
+  {"id":"kalahari-north","lon":25.0,"lat":-21.0,"date":"1853-02","type":"discovery","terrain":"desert","region":"southern-africa","act":1},
+  {"id":"chobe","lon":24.6,"lat":-18.3,"date":"1853-05","type":"path","terrain":"river","region":"southern-africa","act":1},
+  {"id":"linyanti","lon":23.85,"lat":-18.07,"date":"1853-05","type":"checkpoint","terrain":"swamp","region":"southern-africa","act":1},
+  {"id":"sesheke","lon":24.3,"lat":-17.48,"date":"1853-11","type":"path","terrain":"land","region":"central-africa","act":2},
+  {"id":"barotse","lon":23.1,"lat":-15.2,"date":"1853-12","type":"path","terrain":"river","region":"central-africa","act":2},
+  {"id":"dilolo","lon":22.5,"lat":-11.5,"date":"1854-02","type":"discovery","terrain":"lake","region":"central-africa","act":2},
+  {"id":"kasai","lon":21.2,"lat":-10.6,"date":"1854-02","type":"hazard","terrain":"river","region":"central-africa","act":2},
+  {"id":"kwango","lon":17.9,"lat":-9.8,"date":"1854-04","type":"hazard","terrain":"river","region":"central-africa","act":2},
+  {"id":"cassange","lon":16.2,"lat":-9.6,"date":"1854-04","type":"path","terrain":"highland","region":"central-africa","act":2},
+  {"id":"luanda","lon":13.23,"lat":-8.84,"date":"1854-05","type":"checkpoint","terrain":"coast","region":"central-africa","act":2},
+  {"id":"return-angola","lon":17.2,"lat":-10.4,"date":"1855-01","type":"path","terrain":"highland","region":"central-africa","act":3},
+  {"id":"return-barotse","lon":23.0,"lat":-15.6,"date":"1855-07","type":"path","terrain":"land","region":"zambezi","act":3},
+  {"id":"linyanti-return","lon":23.95,"lat":-17.95,"date":"1855-09","type":"path","terrain":"swamp","region":"zambezi","act":3},
+  {"id":"victoria-falls","lon":25.86,"lat":-17.92,"date":"1855-11","type":"landmark","terrain":"river","region":"zambezi","act":3},
+  {"id":"batoka","lon":27.0,"lat":-16.8,"date":"1855-12","type":"path","terrain":"highland","region":"zambezi","act":3},
+  {"id":"kafue","lon":28.8,"lat":-15.9,"date":"1856-01","type":"path","terrain":"river","region":"zambezi","act":3},
+  {"id":"zumbo","lon":30.45,"lat":-15.6,"date":"1856-01","type":"path","terrain":"river","region":"zambezi","act":3},
+  {"id":"overland","lon":32.2,"lat":-15.4,"date":"1856-02","type":"path","terrain":"highland","region":"zambezi","act":3},
+  {"id":"batoka-gorge","lon":26.6,"lat":-17.85,"date":"","type":"hazard","terrain":"river","region":"zambezi","act":3},
+  {"id":"kariba-gorge","lon":28.8,"lat":-16.5,"date":"","type":"hazard","terrain":"river","region":"zambezi","act":3},
+  {"id":"kebrabasa","lon":32.6,"lat":-15.6,"date":"","type":"hazard","terrain":"river","region":"zambezi","act":3},
+  {"id":"tete","lon":33.59,"lat":-16.16,"date":"1856-03","type":"path","terrain":"land","region":"zambezi","act":3},
+  {"id":"lower-zambezi","lon":35.4,"lat":-17.6,"date":"1856-04","type":"path","terrain":"river","region":"zambezi","act":3},
+  {"id":"quelimane","lon":36.89,"lat":-17.88,"date":"1856-05","type":"finish","terrain":"coast","region":"zambezi","act":3}
+ ],
+ "sequence": ["cape-town","kuruman","kalahari-south","kalahari-north","chobe","linyanti","sesheke","barotse","dilolo","kasai","kwango","cassange","luanda","return-angola","return-barotse","linyanti-return","victoria-falls",
+  {"fork":"batoka","branches":[
+   {"id":"plateau","historical":true,"kind":"safe","nodes":["batoka","kafue","zumbo","overland"]},
+   {"id":"river","historical":false,"kind":"perilous","nodes":["batoka-gorge","kariba-gorge","kebrabasa"]}
+  ]},
+  "tete","lower-zambezi","quelimane"]
+}

@@ -1,0 +1,18 @@
+[
+ {"id":"mediterranean","bbox":[-10,28,40,48]},
+ {"id":"anatolia-caucasus","bbox":[24,30,54,46]},
+ {"id":"persia","bbox":[42,22,68,42]},
+ {"id":"central-asia","bbox":[52,30,82,52]},
+ {"id":"china-mongolia","bbox":[72,18,135,54]},
+ {"id":"iberia-macaronesia","bbox":[-26,24,8,46]},
+ {"id":"west-africa","bbox":[-26,-2,16,27]},
+ {"id":"south-america","bbox":[-82,-56,-34,13]},
+ {"id":"oceania","bbox":[110,-48,180,15]},
+ {"id":"southeast-asia","bbox":[92,-12,142,24]},
+ {"id":"southern-africa","bbox":[8,-36,52,-8]},
+ {"id":"central-africa","bbox":[8,-18,36,6]},
+ {"id":"zambezi","bbox":[14,-26,42,-6]},
+ {"id":"northern-europe","bbox":[-25,46,32,72]},
+ {"id":"southern-ocean","bbox":[-180,-60,180,-10]},
+ {"id":"antarctica","bbox":[-180,-60,180,-10]}
+]

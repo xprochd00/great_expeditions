@@ -1,0 +1,2783 @@
+[
+ {
+  "id": "AFG",
+  "cca2": "af",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "borders": [
+   "IRN",
+   "PAK",
+   "TKM",
+   "UZB",
+   "TJK",
+   "CHN"
+  ],
+  "landlocked": true,
+  "area": 652230,
+  "hasCapital": true
+ },
+ {
+  "id": "AGO",
+  "cca2": "ao",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "borders": [
+   "COG",
+   "COD",
+   "ZMB",
+   "NAM"
+  ],
+  "landlocked": false,
+  "area": 1246700,
+  "hasCapital": true
+ },
+ {
+  "id": "ALB",
+  "cca2": "al",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borders": [
+   "MNE",
+   "GRC",
+   "MKD",
+   "UNK"
+  ],
+  "landlocked": false,
+  "area": 28748,
+  "hasCapital": true
+ },
+ {
+  "id": "AND",
+  "cca2": "ad",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borders": [
+   "FRA",
+   "ESP"
+  ],
+  "landlocked": true,
+  "area": 468,
+  "hasCapital": true
+ },
+ {
+  "id": "ARE",
+  "cca2": "ae",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "OMN",
+   "SAU"
+  ],
+  "landlocked": false,
+  "area": 83600,
+  "hasCapital": true
+ },
+ {
+  "id": "ARG",
+  "cca2": "ar",
+  "region": "Americas",
+  "subregion": "South America",
+  "borders": [
+   "BOL",
+   "BRA",
+   "CHL",
+   "PRY",
+   "URY"
+  ],
+  "landlocked": false,
+  "area": 2780400,
+  "hasCapital": true
+ },
+ {
+  "id": "ARM",
+  "cca2": "am",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "AZE",
+   "GEO",
+   "IRN",
+   "TUR"
+  ],
+  "landlocked": true,
+  "area": 29743,
+  "hasCapital": true
+ },
+ {
+  "id": "ATG",
+  "cca2": "ag",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [],
+  "landlocked": false,
+  "area": 442,
+  "hasCapital": true
+ },
+ {
+  "id": "AUS",
+  "cca2": "au",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "borders": [],
+  "landlocked": false,
+  "area": 7692024,
+  "hasCapital": true
+ },
+ {
+  "id": "AUT",
+  "cca2": "at",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "borders": [
+   "CZE",
+   "DEU",
+   "HUN",
+   "ITA",
+   "LIE",
+   "SVK",
+   "SVN",
+   "CHE"
+  ],
+  "landlocked": true,
+  "area": 83871,
+  "hasCapital": true
+ },
+ {
+  "id": "AZE",
+  "cca2": "az",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "ARM",
+   "GEO",
+   "IRN",
+   "RUS",
+   "TUR"
+  ],
+  "landlocked": true,
+  "area": 86600,
+  "hasCapital": true
+ },
+ {
+  "id": "BDI",
+  "cca2": "bi",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "COD",
+   "RWA",
+   "TZA"
+  ],
+  "landlocked": true,
+  "area": 27834,
+  "hasCapital": true
+ },
+ {
+  "id": "BEL",
+  "cca2": "be",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borders": [
+   "FRA",
+   "DEU",
+   "LUX",
+   "NLD"
+  ],
+  "landlocked": false,
+  "area": 30528,
+  "hasCapital": true
+ },
+ {
+  "id": "BEN",
+  "cca2": "bj",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "BFA",
+   "NER",
+   "NGA",
+   "TGO"
+  ],
+  "landlocked": false,
+  "area": 112622,
+  "hasCapital": true
+ },
+ {
+  "id": "BFA",
+  "cca2": "bf",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "BEN",
+   "CIV",
+   "GHA",
+   "MLI",
+   "NER",
+   "TGO"
+  ],
+  "landlocked": true,
+  "area": 272967,
+  "hasCapital": true
+ },
+ {
+  "id": "BGD",
+  "cca2": "bd",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "borders": [
+   "MMR",
+   "IND"
+  ],
+  "landlocked": false,
+  "area": 147570,
+  "hasCapital": true
+ },
+ {
+  "id": "BGR",
+  "cca2": "bg",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borders": [
+   "GRC",
+   "MKD",
+   "ROU",
+   "SRB",
+   "TUR"
+  ],
+  "landlocked": false,
+  "area": 110879,
+  "hasCapital": true
+ },
+ {
+  "id": "BHR",
+  "cca2": "bh",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [],
+  "landlocked": false,
+  "area": 765,
+  "hasCapital": true
+ },
+ {
+  "id": "BHS",
+  "cca2": "bs",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [],
+  "landlocked": false,
+  "area": 13943,
+  "hasCapital": true
+ },
+ {
+  "id": "BIH",
+  "cca2": "ba",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borders": [
+   "HRV",
+   "MNE",
+   "SRB"
+  ],
+  "landlocked": false,
+  "area": 51209,
+  "hasCapital": true
+ },
+ {
+  "id": "BLR",
+  "cca2": "by",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "borders": [
+   "LVA",
+   "LTU",
+   "POL",
+   "RUS",
+   "UKR"
+  ],
+  "landlocked": true,
+  "area": 207600,
+  "hasCapital": true
+ },
+ {
+  "id": "BLZ",
+  "cca2": "bz",
+  "region": "Americas",
+  "subregion": "Central America",
+  "borders": [
+   "GTM",
+   "MEX"
+  ],
+  "landlocked": false,
+  "area": 22966,
+  "hasCapital": true
+ },
+ {
+  "id": "BOL",
+  "cca2": "bo",
+  "region": "Americas",
+  "subregion": "South America",
+  "borders": [
+   "ARG",
+   "BRA",
+   "CHL",
+   "PRY",
+   "PER"
+  ],
+  "landlocked": true,
+  "area": 1098581,
+  "hasCapital": true
+ },
+ {
+  "id": "BRA",
+  "cca2": "br",
+  "region": "Americas",
+  "subregion": "South America",
+  "borders": [
+   "ARG",
+   "BOL",
+   "COL",
+   "GUF",
+   "GUY",
+   "PRY",
+   "PER",
+   "SUR",
+   "URY",
+   "VEN"
+  ],
+  "landlocked": false,
+  "area": 8515767,
+  "hasCapital": true
+ },
+ {
+  "id": "BRB",
+  "cca2": "bb",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [],
+  "landlocked": false,
+  "area": 430,
+  "hasCapital": true
+ },
+ {
+  "id": "BRN",
+  "cca2": "bn",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borders": [
+   "MYS"
+  ],
+  "landlocked": false,
+  "area": 5765,
+  "hasCapital": true
+ },
+ {
+  "id": "BTN",
+  "cca2": "bt",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "borders": [
+   "CHN",
+   "IND"
+  ],
+  "landlocked": true,
+  "area": 38394,
+  "hasCapital": true
+ },
+ {
+  "id": "BWA",
+  "cca2": "bw",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "borders": [
+   "NAM",
+   "ZAF",
+   "ZMB",
+   "ZWE"
+  ],
+  "landlocked": true,
+  "area": 582000,
+  "hasCapital": true
+ },
+ {
+  "id": "CAF",
+  "cca2": "cf",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "borders": [
+   "CMR",
+   "TCD",
+   "COD",
+   "COG",
+   "SSD",
+   "SDN"
+  ],
+  "landlocked": true,
+  "area": 622984,
+  "hasCapital": true
+ },
+ {
+  "id": "CAN",
+  "cca2": "ca",
+  "region": "Americas",
+  "subregion": "North America",
+  "borders": [
+   "USA"
+  ],
+  "landlocked": false,
+  "area": 9984670,
+  "hasCapital": true
+ },
+ {
+  "id": "CHE",
+  "cca2": "ch",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borders": [
+   "AUT",
+   "FRA",
+   "ITA",
+   "LIE",
+   "DEU"
+  ],
+  "landlocked": true,
+  "area": 41284,
+  "hasCapital": true
+ },
+ {
+  "id": "CHL",
+  "cca2": "cl",
+  "region": "Americas",
+  "subregion": "South America",
+  "borders": [
+   "ARG",
+   "BOL",
+   "PER"
+  ],
+  "landlocked": false,
+  "area": 756102,
+  "hasCapital": true
+ },
+ {
+  "id": "CHN",
+  "cca2": "cn",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "borders": [
+   "AFG",
+   "BTN",
+   "MMR",
+   "HKG",
+   "IND",
+   "KAZ",
+   "NPL",
+   "PRK",
+   "KGZ",
+   "LAO",
+   "MAC",
+   "MNG",
+   "PAK",
+   "RUS",
+   "TJK",
+   "VNM"
+  ],
+  "landlocked": false,
+  "area": 9706961,
+  "hasCapital": true
+ },
+ {
+  "id": "CIV",
+  "cca2": "ci",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "BFA",
+   "GHA",
+   "GIN",
+   "LBR",
+   "MLI"
+  ],
+  "landlocked": false,
+  "area": 322463,
+  "hasCapital": true
+ },
+ {
+  "id": "CMR",
+  "cca2": "cm",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "borders": [
+   "CAF",
+   "TCD",
+   "COG",
+   "GNQ",
+   "GAB",
+   "NGA"
+  ],
+  "landlocked": false,
+  "area": 475442,
+  "hasCapital": true
+ },
+ {
+  "id": "COD",
+  "cca2": "cd",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "borders": [
+   "AGO",
+   "BDI",
+   "CAF",
+   "COG",
+   "RWA",
+   "SSD",
+   "TZA",
+   "UGA",
+   "ZMB"
+  ],
+  "landlocked": false,
+  "area": 2344858,
+  "hasCapital": true
+ },
+ {
+  "id": "COG",
+  "cca2": "cg",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "borders": [
+   "AGO",
+   "CMR",
+   "CAF",
+   "COD",
+   "GAB"
+  ],
+  "landlocked": false,
+  "area": 342000,
+  "hasCapital": true
+ },
+ {
+  "id": "COL",
+  "cca2": "co",
+  "region": "Americas",
+  "subregion": "South America",
+  "borders": [
+   "BRA",
+   "ECU",
+   "PAN",
+   "PER",
+   "VEN"
+  ],
+  "landlocked": false,
+  "area": 1141748,
+  "hasCapital": true
+ },
+ {
+  "id": "COM",
+  "cca2": "km",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [],
+  "landlocked": false,
+  "area": 1862,
+  "hasCapital": true
+ },
+ {
+  "id": "CPV",
+  "cca2": "cv",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [],
+  "landlocked": false,
+  "area": 4033,
+  "hasCapital": true
+ },
+ {
+  "id": "CRI",
+  "cca2": "cr",
+  "region": "Americas",
+  "subregion": "Central America",
+  "borders": [
+   "NIC",
+   "PAN"
+  ],
+  "landlocked": false,
+  "area": 51100,
+  "hasCapital": true
+ },
+ {
+  "id": "CUB",
+  "cca2": "cu",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [],
+  "landlocked": false,
+  "area": 109884,
+  "hasCapital": true
+ },
+ {
+  "id": "CYP",
+  "cca2": "cy",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borders": [],
+  "landlocked": false,
+  "area": 9251,
+  "hasCapital": true
+ },
+ {
+  "id": "CZE",
+  "cca2": "cz",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "borders": [
+   "AUT",
+   "DEU",
+   "POL",
+   "SVK"
+  ],
+  "landlocked": true,
+  "area": 78865,
+  "hasCapital": true
+ },
+ {
+  "id": "DEU",
+  "cca2": "de",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borders": [
+   "AUT",
+   "BEL",
+   "CZE",
+   "DNK",
+   "FRA",
+   "LUX",
+   "NLD",
+   "POL",
+   "CHE"
+  ],
+  "landlocked": false,
+  "area": 357114,
+  "hasCapital": true
+ },
+ {
+  "id": "DJI",
+  "cca2": "dj",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "ERI",
+   "ETH",
+   "SOM"
+  ],
+  "landlocked": false,
+  "area": 23200,
+  "hasCapital": true
+ },
+ {
+  "id": "DMA",
+  "cca2": "dm",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [],
+  "landlocked": false,
+  "area": 751,
+  "hasCapital": true
+ },
+ {
+  "id": "DNK",
+  "cca2": "dk",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borders": [
+   "DEU"
+  ],
+  "landlocked": false,
+  "area": 43094,
+  "hasCapital": true
+ },
+ {
+  "id": "DOM",
+  "cca2": "do",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [
+   "HTI"
+  ],
+  "landlocked": false,
+  "area": 48671,
+  "hasCapital": true
+ },
+ {
+  "id": "DZA",
+  "cca2": "dz",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "borders": [
+   "TUN",
+   "LBY",
+   "NER",
+   "ESH",
+   "MRT",
+   "MLI",
+   "MAR"
+  ],
+  "landlocked": false,
+  "area": 2381741,
+  "hasCapital": true
+ },
+ {
+  "id": "ECU",
+  "cca2": "ec",
+  "region": "Americas",
+  "subregion": "South America",
+  "borders": [
+   "COL",
+   "PER"
+  ],
+  "landlocked": false,
+  "area": 276841,
+  "hasCapital": true
+ },
+ {
+  "id": "EGY",
+  "cca2": "eg",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "borders": [
+   "ISR",
+   "LBY",
+   "PSE",
+   "SDN"
+  ],
+  "landlocked": false,
+  "area": 1002450,
+  "hasCapital": true
+ },
+ {
+  "id": "ERI",
+  "cca2": "er",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "DJI",
+   "ETH",
+   "SDN"
+  ],
+  "landlocked": false,
+  "area": 117600,
+  "hasCapital": true
+ },
+ {
+  "id": "ESH",
+  "cca2": "eh",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "borders": [
+   "DZA",
+   "MRT",
+   "MAR"
+  ],
+  "landlocked": false,
+  "area": 266000,
+  "hasCapital": true
+ },
+ {
+  "id": "ESP",
+  "cca2": "es",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borders": [
+   "AND",
+   "FRA",
+   "GIB",
+   "PRT",
+   "MAR"
+  ],
+  "landlocked": false,
+  "area": 505992,
+  "hasCapital": true
+ },
+ {
+  "id": "EST",
+  "cca2": "ee",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borders": [
+   "LVA",
+   "RUS"
+  ],
+  "landlocked": false,
+  "area": 45227,
+  "hasCapital": true
+ },
+ {
+  "id": "ETH",
+  "cca2": "et",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "DJI",
+   "ERI",
+   "KEN",
+   "SOM",
+   "SSD",
+   "SDN"
+  ],
+  "landlocked": true,
+  "area": 1104300,
+  "hasCapital": true
+ },
+ {
+  "id": "FIN",
+  "cca2": "fi",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borders": [
+   "NOR",
+   "SWE",
+   "RUS"
+  ],
+  "landlocked": false,
+  "area": 338424,
+  "hasCapital": true
+ },
+ {
+  "id": "FJI",
+  "cca2": "fj",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "borders": [],
+  "landlocked": false,
+  "area": 18272,
+  "hasCapital": true
+ },
+ {
+  "id": "FRA",
+  "cca2": "fr",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borders": [
+   "AND",
+   "BEL",
+   "DEU",
+   "ITA",
+   "LUX",
+   "MCO",
+   "ESP",
+   "CHE"
+  ],
+  "landlocked": false,
+  "area": 551695,
+  "hasCapital": true
+ },
+ {
+  "id": "FSM",
+  "cca2": "fm",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "borders": [],
+  "landlocked": false,
+  "area": 702,
+  "hasCapital": true
+ },
+ {
+  "id": "GAB",
+  "cca2": "ga",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "borders": [
+   "CMR",
+   "COG",
+   "GNQ"
+  ],
+  "landlocked": false,
+  "area": 267668,
+  "hasCapital": true
+ },
+ {
+  "id": "GBR",
+  "cca2": "gb",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borders": [
+   "IRL"
+  ],
+  "landlocked": false,
+  "area": 242900,
+  "hasCapital": true
+ },
+ {
+  "id": "GEO",
+  "cca2": "ge",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "ARM",
+   "AZE",
+   "RUS",
+   "TUR"
+  ],
+  "landlocked": false,
+  "area": 69700,
+  "hasCapital": true
+ },
+ {
+  "id": "GHA",
+  "cca2": "gh",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "BFA",
+   "CIV",
+   "TGO"
+  ],
+  "landlocked": false,
+  "area": 238533,
+  "hasCapital": true
+ },
+ {
+  "id": "GIN",
+  "cca2": "gn",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "CIV",
+   "GNB",
+   "LBR",
+   "MLI",
+   "SEN",
+   "SLE"
+  ],
+  "landlocked": false,
+  "area": 245857,
+  "hasCapital": true
+ },
+ {
+  "id": "GMB",
+  "cca2": "gm",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "SEN"
+  ],
+  "landlocked": false,
+  "area": 10689,
+  "hasCapital": true
+ },
+ {
+  "id": "GNB",
+  "cca2": "gw",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "GIN",
+   "SEN"
+  ],
+  "landlocked": false,
+  "area": 36125,
+  "hasCapital": true
+ },
+ {
+  "id": "GNQ",
+  "cca2": "gq",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "borders": [
+   "CMR",
+   "GAB"
+  ],
+  "landlocked": false,
+  "area": 28051,
+  "hasCapital": true
+ },
+ {
+  "id": "GRC",
+  "cca2": "gr",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borders": [
+   "ALB",
+   "BGR",
+   "TUR",
+   "MKD"
+  ],
+  "landlocked": false,
+  "area": 131990,
+  "hasCapital": true
+ },
+ {
+  "id": "GRD",
+  "cca2": "gd",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [],
+  "landlocked": false,
+  "area": 344,
+  "hasCapital": true
+ },
+ {
+  "id": "GTM",
+  "cca2": "gt",
+  "region": "Americas",
+  "subregion": "Central America",
+  "borders": [
+   "BLZ",
+   "SLV",
+   "HND",
+   "MEX"
+  ],
+  "landlocked": false,
+  "area": 108889,
+  "hasCapital": true
+ },
+ {
+  "id": "GUY",
+  "cca2": "gy",
+  "region": "Americas",
+  "subregion": "South America",
+  "borders": [
+   "BRA",
+   "SUR",
+   "VEN"
+  ],
+  "landlocked": false,
+  "area": 214969,
+  "hasCapital": true
+ },
+ {
+  "id": "HND",
+  "cca2": "hn",
+  "region": "Americas",
+  "subregion": "Central America",
+  "borders": [
+   "GTM",
+   "SLV",
+   "NIC"
+  ],
+  "landlocked": false,
+  "area": 112492,
+  "hasCapital": true
+ },
+ {
+  "id": "HRV",
+  "cca2": "hr",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borders": [
+   "BIH",
+   "HUN",
+   "MNE",
+   "SRB",
+   "SVN"
+  ],
+  "landlocked": false,
+  "area": 56594,
+  "hasCapital": true
+ },
+ {
+  "id": "HTI",
+  "cca2": "ht",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [
+   "DOM"
+  ],
+  "landlocked": false,
+  "area": 27750,
+  "hasCapital": true
+ },
+ {
+  "id": "HUN",
+  "cca2": "hu",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "borders": [
+   "AUT",
+   "HRV",
+   "ROU",
+   "SRB",
+   "SVK",
+   "SVN",
+   "UKR"
+  ],
+  "landlocked": true,
+  "area": 93028,
+  "hasCapital": true
+ },
+ {
+  "id": "IDN",
+  "cca2": "id",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borders": [
+   "TLS",
+   "MYS",
+   "PNG"
+  ],
+  "landlocked": false,
+  "area": 1904569,
+  "hasCapital": true
+ },
+ {
+  "id": "IND",
+  "cca2": "in",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "borders": [
+   "BGD",
+   "BTN",
+   "MMR",
+   "CHN",
+   "NPL",
+   "PAK"
+  ],
+  "landlocked": false,
+  "area": 3287590,
+  "hasCapital": true
+ },
+ {
+  "id": "IRL",
+  "cca2": "ie",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borders": [
+   "GBR"
+  ],
+  "landlocked": false,
+  "area": 70273,
+  "hasCapital": true
+ },
+ {
+  "id": "IRN",
+  "cca2": "ir",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "borders": [
+   "AFG",
+   "ARM",
+   "AZE",
+   "IRQ",
+   "PAK",
+   "TUR",
+   "TKM"
+  ],
+  "landlocked": false,
+  "area": 1648195,
+  "hasCapital": true
+ },
+ {
+  "id": "IRQ",
+  "cca2": "iq",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "IRN",
+   "JOR",
+   "KWT",
+   "SAU",
+   "SYR",
+   "TUR"
+  ],
+  "landlocked": false,
+  "area": 438317,
+  "hasCapital": true
+ },
+ {
+  "id": "ISL",
+  "cca2": "is",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borders": [],
+  "landlocked": false,
+  "area": 103000,
+  "hasCapital": true
+ },
+ {
+  "id": "ISR",
+  "cca2": "il",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "EGY",
+   "JOR",
+   "LBN",
+   "PSE",
+   "SYR"
+  ],
+  "landlocked": false,
+  "area": 20770,
+  "hasCapital": true
+ },
+ {
+  "id": "ITA",
+  "cca2": "it",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borders": [
+   "AUT",
+   "FRA",
+   "SMR",
+   "SVN",
+   "CHE",
+   "VAT"
+  ],
+  "landlocked": false,
+  "area": 301336,
+  "hasCapital": true
+ },
+ {
+  "id": "JAM",
+  "cca2": "jm",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [],
+  "landlocked": false,
+  "area": 10991,
+  "hasCapital": true
+ },
+ {
+  "id": "JOR",
+  "cca2": "jo",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "IRQ",
+   "ISR",
+   "PSE",
+   "SAU",
+   "SYR"
+  ],
+  "landlocked": false,
+  "area": 89342,
+  "hasCapital": true
+ },
+ {
+  "id": "JPN",
+  "cca2": "jp",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "borders": [],
+  "landlocked": false,
+  "area": 377930,
+  "hasCapital": true
+ },
+ {
+  "id": "KAZ",
+  "cca2": "kz",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "borders": [
+   "CHN",
+   "KGZ",
+   "RUS",
+   "TKM",
+   "UZB"
+  ],
+  "landlocked": true,
+  "area": 2724900,
+  "hasCapital": true
+ },
+ {
+  "id": "KEN",
+  "cca2": "ke",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "ETH",
+   "SOM",
+   "SSD",
+   "TZA",
+   "UGA"
+  ],
+  "landlocked": false,
+  "area": 580367,
+  "hasCapital": true
+ },
+ {
+  "id": "KGZ",
+  "cca2": "kg",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "borders": [
+   "CHN",
+   "KAZ",
+   "TJK",
+   "UZB"
+  ],
+  "landlocked": true,
+  "area": 199951,
+  "hasCapital": true
+ },
+ {
+  "id": "KHM",
+  "cca2": "kh",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borders": [
+   "LAO",
+   "THA",
+   "VNM"
+  ],
+  "landlocked": false,
+  "area": 181035,
+  "hasCapital": true
+ },
+ {
+  "id": "KIR",
+  "cca2": "ki",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "borders": [],
+  "landlocked": false,
+  "area": 811,
+  "hasCapital": true
+ },
+ {
+  "id": "KNA",
+  "cca2": "kn",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [],
+  "landlocked": false,
+  "area": 261,
+  "hasCapital": true
+ },
+ {
+  "id": "KOR",
+  "cca2": "kr",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "borders": [
+   "PRK"
+  ],
+  "landlocked": false,
+  "area": 100210,
+  "hasCapital": true
+ },
+ {
+  "id": "KWT",
+  "cca2": "kw",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "IRQ",
+   "SAU"
+  ],
+  "landlocked": false,
+  "area": 17818,
+  "hasCapital": true
+ },
+ {
+  "id": "LAO",
+  "cca2": "la",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borders": [
+   "MMR",
+   "KHM",
+   "CHN",
+   "THA",
+   "VNM"
+  ],
+  "landlocked": true,
+  "area": 236800,
+  "hasCapital": true
+ },
+ {
+  "id": "LBN",
+  "cca2": "lb",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "ISR",
+   "SYR"
+  ],
+  "landlocked": false,
+  "area": 10452,
+  "hasCapital": true
+ },
+ {
+  "id": "LBR",
+  "cca2": "lr",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "GIN",
+   "CIV",
+   "SLE"
+  ],
+  "landlocked": false,
+  "area": 111369,
+  "hasCapital": true
+ },
+ {
+  "id": "LBY",
+  "cca2": "ly",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "borders": [
+   "DZA",
+   "TCD",
+   "EGY",
+   "NER",
+   "SDN",
+   "TUN"
+  ],
+  "landlocked": false,
+  "area": 1759540,
+  "hasCapital": true
+ },
+ {
+  "id": "LCA",
+  "cca2": "lc",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [],
+  "landlocked": false,
+  "area": 616,
+  "hasCapital": true
+ },
+ {
+  "id": "LIE",
+  "cca2": "li",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borders": [
+   "AUT",
+   "CHE"
+  ],
+  "landlocked": true,
+  "area": 160,
+  "hasCapital": true
+ },
+ {
+  "id": "LKA",
+  "cca2": "lk",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "borders": [
+   "IND"
+  ],
+  "landlocked": false,
+  "area": 65610,
+  "hasCapital": true
+ },
+ {
+  "id": "LSO",
+  "cca2": "ls",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "borders": [
+   "ZAF"
+  ],
+  "landlocked": true,
+  "area": 30355,
+  "hasCapital": true
+ },
+ {
+  "id": "LTU",
+  "cca2": "lt",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borders": [
+   "BLR",
+   "LVA",
+   "POL",
+   "RUS"
+  ],
+  "landlocked": false,
+  "area": 65300,
+  "hasCapital": true
+ },
+ {
+  "id": "LUX",
+  "cca2": "lu",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borders": [
+   "BEL",
+   "FRA",
+   "DEU"
+  ],
+  "landlocked": true,
+  "area": 2586,
+  "hasCapital": true
+ },
+ {
+  "id": "LVA",
+  "cca2": "lv",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borders": [
+   "BLR",
+   "EST",
+   "LTU",
+   "RUS"
+  ],
+  "landlocked": false,
+  "area": 64559,
+  "hasCapital": true
+ },
+ {
+  "id": "MAR",
+  "cca2": "ma",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "borders": [
+   "DZA",
+   "ESH",
+   "ESP"
+  ],
+  "landlocked": false,
+  "area": 446550,
+  "hasCapital": true
+ },
+ {
+  "id": "MCO",
+  "cca2": "mc",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borders": [
+   "FRA"
+  ],
+  "landlocked": false,
+  "area": 2.02,
+  "hasCapital": true
+ },
+ {
+  "id": "MDA",
+  "cca2": "md",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "borders": [
+   "ROU",
+   "UKR"
+  ],
+  "landlocked": true,
+  "area": 33846,
+  "hasCapital": true
+ },
+ {
+  "id": "MDG",
+  "cca2": "mg",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [],
+  "landlocked": false,
+  "area": 587041,
+  "hasCapital": true
+ },
+ {
+  "id": "MDV",
+  "cca2": "mv",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "borders": [],
+  "landlocked": false,
+  "area": 300,
+  "hasCapital": true
+ },
+ {
+  "id": "MEX",
+  "cca2": "mx",
+  "region": "Americas",
+  "subregion": "North America",
+  "borders": [
+   "BLZ",
+   "GTM",
+   "USA"
+  ],
+  "landlocked": false,
+  "area": 1964375,
+  "hasCapital": true
+ },
+ {
+  "id": "MHL",
+  "cca2": "mh",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "borders": [],
+  "landlocked": false,
+  "area": 181,
+  "hasCapital": true
+ },
+ {
+  "id": "MKD",
+  "cca2": "mk",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borders": [
+   "ALB",
+   "BGR",
+   "GRC",
+   "UNK",
+   "SRB"
+  ],
+  "landlocked": true,
+  "area": 25713,
+  "hasCapital": true
+ },
+ {
+  "id": "MLI",
+  "cca2": "ml",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "DZA",
+   "BFA",
+   "GIN",
+   "CIV",
+   "MRT",
+   "NER",
+   "SEN"
+  ],
+  "landlocked": true,
+  "area": 1240192,
+  "hasCapital": true
+ },
+ {
+  "id": "MLT",
+  "cca2": "mt",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borders": [],
+  "landlocked": false,
+  "area": 316,
+  "hasCapital": true
+ },
+ {
+  "id": "MMR",
+  "cca2": "mm",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borders": [
+   "BGD",
+   "CHN",
+   "IND",
+   "LAO",
+   "THA"
+  ],
+  "landlocked": false,
+  "area": 676578,
+  "hasCapital": true
+ },
+ {
+  "id": "MNE",
+  "cca2": "me",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borders": [
+   "ALB",
+   "BIH",
+   "HRV",
+   "UNK",
+   "SRB"
+  ],
+  "landlocked": false,
+  "area": 13812,
+  "hasCapital": true
+ },
+ {
+  "id": "MNG",
+  "cca2": "mn",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "borders": [
+   "CHN",
+   "RUS"
+  ],
+  "landlocked": true,
+  "area": 1564110,
+  "hasCapital": true
+ },
+ {
+  "id": "MOZ",
+  "cca2": "mz",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "MWI",
+   "ZAF",
+   "SWZ",
+   "TZA",
+   "ZMB",
+   "ZWE"
+  ],
+  "landlocked": false,
+  "area": 801590,
+  "hasCapital": true
+ },
+ {
+  "id": "MRT",
+  "cca2": "mr",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "DZA",
+   "MLI",
+   "SEN",
+   "ESH"
+  ],
+  "landlocked": false,
+  "area": 1030700,
+  "hasCapital": true
+ },
+ {
+  "id": "MUS",
+  "cca2": "mu",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [],
+  "landlocked": false,
+  "area": 2040,
+  "hasCapital": true
+ },
+ {
+  "id": "MWI",
+  "cca2": "mw",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "MOZ",
+   "TZA",
+   "ZMB"
+  ],
+  "landlocked": true,
+  "area": 118484,
+  "hasCapital": true
+ },
+ {
+  "id": "MYS",
+  "cca2": "my",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borders": [
+   "BRN",
+   "IDN",
+   "THA"
+  ],
+  "landlocked": false,
+  "area": 330803,
+  "hasCapital": true
+ },
+ {
+  "id": "NAM",
+  "cca2": "na",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "borders": [
+   "AGO",
+   "BWA",
+   "ZAF",
+   "ZMB"
+  ],
+  "landlocked": false,
+  "area": 825615,
+  "hasCapital": true
+ },
+ {
+  "id": "NER",
+  "cca2": "ne",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "DZA",
+   "BEN",
+   "BFA",
+   "TCD",
+   "LBY",
+   "MLI",
+   "NGA"
+  ],
+  "landlocked": true,
+  "area": 1267000,
+  "hasCapital": true
+ },
+ {
+  "id": "NGA",
+  "cca2": "ng",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "BEN",
+   "CMR",
+   "TCD",
+   "NER"
+  ],
+  "landlocked": false,
+  "area": 923768,
+  "hasCapital": true
+ },
+ {
+  "id": "NIC",
+  "cca2": "ni",
+  "region": "Americas",
+  "subregion": "Central America",
+  "borders": [
+   "CRI",
+   "HND"
+  ],
+  "landlocked": false,
+  "area": 130373,
+  "hasCapital": true
+ },
+ {
+  "id": "NLD",
+  "cca2": "nl",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "borders": [
+   "BEL",
+   "DEU"
+  ],
+  "landlocked": false,
+  "area": 41850,
+  "hasCapital": true
+ },
+ {
+  "id": "NOR",
+  "cca2": "no",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borders": [
+   "FIN",
+   "SWE",
+   "RUS"
+  ],
+  "landlocked": false,
+  "area": 323802,
+  "hasCapital": true
+ },
+ {
+  "id": "NPL",
+  "cca2": "np",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "borders": [
+   "CHN",
+   "IND"
+  ],
+  "landlocked": true,
+  "area": 147181,
+  "hasCapital": true
+ },
+ {
+  "id": "NRU",
+  "cca2": "nr",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "borders": [],
+  "landlocked": false,
+  "area": 21,
+  "hasCapital": true
+ },
+ {
+  "id": "NZL",
+  "cca2": "nz",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "borders": [],
+  "landlocked": false,
+  "area": 270467,
+  "hasCapital": true
+ },
+ {
+  "id": "OMN",
+  "cca2": "om",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "SAU",
+   "ARE",
+   "YEM"
+  ],
+  "landlocked": false,
+  "area": 309500,
+  "hasCapital": true
+ },
+ {
+  "id": "PAK",
+  "cca2": "pk",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "borders": [
+   "AFG",
+   "CHN",
+   "IND",
+   "IRN"
+  ],
+  "landlocked": false,
+  "area": 881912,
+  "hasCapital": true
+ },
+ {
+  "id": "PAN",
+  "cca2": "pa",
+  "region": "Americas",
+  "subregion": "Central America",
+  "borders": [
+   "COL",
+   "CRI"
+  ],
+  "landlocked": false,
+  "area": 75417,
+  "hasCapital": true
+ },
+ {
+  "id": "PER",
+  "cca2": "pe",
+  "region": "Americas",
+  "subregion": "South America",
+  "borders": [
+   "BOL",
+   "BRA",
+   "CHL",
+   "COL",
+   "ECU"
+  ],
+  "landlocked": false,
+  "area": 1285216,
+  "hasCapital": true
+ },
+ {
+  "id": "PHL",
+  "cca2": "ph",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borders": [],
+  "landlocked": false,
+  "area": 342353,
+  "hasCapital": true
+ },
+ {
+  "id": "PLW",
+  "cca2": "pw",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "borders": [],
+  "landlocked": false,
+  "area": 459,
+  "hasCapital": true
+ },
+ {
+  "id": "PNG",
+  "cca2": "pg",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "borders": [
+   "IDN"
+  ],
+  "landlocked": false,
+  "area": 462840,
+  "hasCapital": true
+ },
+ {
+  "id": "POL",
+  "cca2": "pl",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "borders": [
+   "BLR",
+   "CZE",
+   "DEU",
+   "LTU",
+   "RUS",
+   "SVK",
+   "UKR"
+  ],
+  "landlocked": false,
+  "area": 312679,
+  "hasCapital": true
+ },
+ {
+  "id": "PRK",
+  "cca2": "kp",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "borders": [
+   "CHN",
+   "KOR",
+   "RUS"
+  ],
+  "landlocked": false,
+  "area": 120538,
+  "hasCapital": true
+ },
+ {
+  "id": "PRT",
+  "cca2": "pt",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borders": [
+   "ESP"
+  ],
+  "landlocked": false,
+  "area": 92090,
+  "hasCapital": true
+ },
+ {
+  "id": "PRY",
+  "cca2": "py",
+  "region": "Americas",
+  "subregion": "South America",
+  "borders": [
+   "ARG",
+   "BOL",
+   "BRA"
+  ],
+  "landlocked": true,
+  "area": 406752,
+  "hasCapital": true
+ },
+ {
+  "id": "PSE",
+  "cca2": "ps",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "ISR",
+   "EGY",
+   "JOR"
+  ],
+  "landlocked": false,
+  "area": 6220,
+  "hasCapital": true
+ },
+ {
+  "id": "QAT",
+  "cca2": "qa",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "SAU"
+  ],
+  "landlocked": false,
+  "area": 11586,
+  "hasCapital": true
+ },
+ {
+  "id": "ROU",
+  "cca2": "ro",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borders": [
+   "BGR",
+   "HUN",
+   "MDA",
+   "SRB",
+   "UKR"
+  ],
+  "landlocked": false,
+  "area": 238391,
+  "hasCapital": true
+ },
+ {
+  "id": "RUS",
+  "cca2": "ru",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "borders": [
+   "AZE",
+   "BLR",
+   "CHN",
+   "EST",
+   "FIN",
+   "GEO",
+   "KAZ",
+   "PRK",
+   "LVA",
+   "LTU",
+   "MNG",
+   "NOR",
+   "POL",
+   "UKR"
+  ],
+  "landlocked": false,
+  "area": 17098242,
+  "hasCapital": true
+ },
+ {
+  "id": "RWA",
+  "cca2": "rw",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "BDI",
+   "COD",
+   "TZA",
+   "UGA"
+  ],
+  "landlocked": true,
+  "area": 26338,
+  "hasCapital": true
+ },
+ {
+  "id": "SAU",
+  "cca2": "sa",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "IRQ",
+   "JOR",
+   "KWT",
+   "OMN",
+   "QAT",
+   "ARE",
+   "YEM"
+  ],
+  "landlocked": false,
+  "area": 2149690,
+  "hasCapital": true
+ },
+ {
+  "id": "SDN",
+  "cca2": "sd",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "borders": [
+   "CAF",
+   "TCD",
+   "EGY",
+   "ERI",
+   "ETH",
+   "LBY",
+   "SSD"
+  ],
+  "landlocked": false,
+  "area": 1886068,
+  "hasCapital": true
+ },
+ {
+  "id": "SEN",
+  "cca2": "sn",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "GMB",
+   "GIN",
+   "GNB",
+   "MLI",
+   "MRT"
+  ],
+  "landlocked": false,
+  "area": 196722,
+  "hasCapital": true
+ },
+ {
+  "id": "SGP",
+  "cca2": "sg",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borders": [],
+  "landlocked": false,
+  "area": 710,
+  "hasCapital": true
+ },
+ {
+  "id": "SLB",
+  "cca2": "sb",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "borders": [],
+  "landlocked": false,
+  "area": 28896,
+  "hasCapital": true
+ },
+ {
+  "id": "SLE",
+  "cca2": "sl",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "GIN",
+   "LBR"
+  ],
+  "landlocked": false,
+  "area": 71740,
+  "hasCapital": true
+ },
+ {
+  "id": "SLV",
+  "cca2": "sv",
+  "region": "Americas",
+  "subregion": "Central America",
+  "borders": [
+   "GTM",
+   "HND"
+  ],
+  "landlocked": false,
+  "area": 21041,
+  "hasCapital": true
+ },
+ {
+  "id": "SMR",
+  "cca2": "sm",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borders": [
+   "ITA"
+  ],
+  "landlocked": true,
+  "area": 61,
+  "hasCapital": true
+ },
+ {
+  "id": "SOM",
+  "cca2": "so",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "DJI",
+   "ETH",
+   "KEN"
+  ],
+  "landlocked": false,
+  "area": 637657,
+  "hasCapital": true
+ },
+ {
+  "id": "SRB",
+  "cca2": "rs",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borders": [
+   "BIH",
+   "BGR",
+   "HRV",
+   "HUN",
+   "UNK",
+   "MKD",
+   "MNE",
+   "ROU"
+  ],
+  "landlocked": true,
+  "area": 88361,
+  "hasCapital": true
+ },
+ {
+  "id": "SSD",
+  "cca2": "ss",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "borders": [
+   "CAF",
+   "COD",
+   "ETH",
+   "KEN",
+   "SDN",
+   "UGA"
+  ],
+  "landlocked": true,
+  "area": 619745,
+  "hasCapital": true
+ },
+ {
+  "id": "STP",
+  "cca2": "st",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "borders": [],
+  "landlocked": false,
+  "area": 964,
+  "hasCapital": true
+ },
+ {
+  "id": "SUR",
+  "cca2": "sr",
+  "region": "Americas",
+  "subregion": "South America",
+  "borders": [
+   "BRA",
+   "GUF",
+   "GUY"
+  ],
+  "landlocked": false,
+  "area": 163820,
+  "hasCapital": true
+ },
+ {
+  "id": "SVK",
+  "cca2": "sk",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "borders": [
+   "AUT",
+   "CZE",
+   "HUN",
+   "POL",
+   "UKR"
+  ],
+  "landlocked": true,
+  "area": 49037,
+  "hasCapital": true
+ },
+ {
+  "id": "SVN",
+  "cca2": "si",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "borders": [
+   "AUT",
+   "HRV",
+   "ITA",
+   "HUN"
+  ],
+  "landlocked": false,
+  "area": 20273,
+  "hasCapital": true
+ },
+ {
+  "id": "SWE",
+  "cca2": "se",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "borders": [
+   "FIN",
+   "NOR"
+  ],
+  "landlocked": false,
+  "area": 450295,
+  "hasCapital": true
+ },
+ {
+  "id": "SWZ",
+  "cca2": "sz",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "borders": [
+   "MOZ",
+   "ZAF"
+  ],
+  "landlocked": true,
+  "area": 17364,
+  "hasCapital": true
+ },
+ {
+  "id": "SYC",
+  "cca2": "sc",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [],
+  "landlocked": false,
+  "area": 452,
+  "hasCapital": true
+ },
+ {
+  "id": "SYR",
+  "cca2": "sy",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "IRQ",
+   "ISR",
+   "JOR",
+   "LBN",
+   "TUR"
+  ],
+  "landlocked": false,
+  "area": 185180,
+  "hasCapital": true
+ },
+ {
+  "id": "TCD",
+  "cca2": "td",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "borders": [
+   "CMR",
+   "CAF",
+   "LBY",
+   "NER",
+   "NGA",
+   "SDN"
+  ],
+  "landlocked": true,
+  "area": 1284000,
+  "hasCapital": true
+ },
+ {
+  "id": "TGO",
+  "cca2": "tg",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "borders": [
+   "BEN",
+   "BFA",
+   "GHA"
+  ],
+  "landlocked": false,
+  "area": 56785,
+  "hasCapital": true
+ },
+ {
+  "id": "THA",
+  "cca2": "th",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borders": [
+   "MMR",
+   "KHM",
+   "LAO",
+   "MYS"
+  ],
+  "landlocked": false,
+  "area": 513120,
+  "hasCapital": true
+ },
+ {
+  "id": "TJK",
+  "cca2": "tj",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "borders": [
+   "AFG",
+   "CHN",
+   "KGZ",
+   "UZB"
+  ],
+  "landlocked": true,
+  "area": 143100,
+  "hasCapital": true
+ },
+ {
+  "id": "TKM",
+  "cca2": "tm",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "borders": [
+   "AFG",
+   "IRN",
+   "KAZ",
+   "UZB"
+  ],
+  "landlocked": true,
+  "area": 488100,
+  "hasCapital": true
+ },
+ {
+  "id": "TLS",
+  "cca2": "tl",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borders": [
+   "IDN"
+  ],
+  "landlocked": false,
+  "area": 14874,
+  "hasCapital": true
+ },
+ {
+  "id": "TON",
+  "cca2": "to",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "borders": [],
+  "landlocked": false,
+  "area": 747,
+  "hasCapital": true
+ },
+ {
+  "id": "TTO",
+  "cca2": "tt",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [],
+  "landlocked": false,
+  "area": 5130,
+  "hasCapital": true
+ },
+ {
+  "id": "TUN",
+  "cca2": "tn",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "borders": [
+   "DZA",
+   "LBY"
+  ],
+  "landlocked": false,
+  "area": 163610,
+  "hasCapital": true
+ },
+ {
+  "id": "TUR",
+  "cca2": "tr",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "ARM",
+   "AZE",
+   "BGR",
+   "GEO",
+   "GRC",
+   "IRN",
+   "IRQ",
+   "SYR"
+  ],
+  "landlocked": false,
+  "area": 783562,
+  "hasCapital": true
+ },
+ {
+  "id": "TUV",
+  "cca2": "tv",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "borders": [],
+  "landlocked": false,
+  "area": 26,
+  "hasCapital": true
+ },
+ {
+  "id": "TWN",
+  "cca2": "tw",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "borders": [],
+  "landlocked": false,
+  "area": 36193,
+  "hasCapital": true
+ },
+ {
+  "id": "TZA",
+  "cca2": "tz",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "BDI",
+   "COD",
+   "KEN",
+   "MWI",
+   "MOZ",
+   "RWA",
+   "UGA",
+   "ZMB"
+  ],
+  "landlocked": false,
+  "area": 945087,
+  "hasCapital": true
+ },
+ {
+  "id": "UGA",
+  "cca2": "ug",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "COD",
+   "KEN",
+   "RWA",
+   "SSD",
+   "TZA"
+  ],
+  "landlocked": true,
+  "area": 241550,
+  "hasCapital": true
+ },
+ {
+  "id": "UKR",
+  "cca2": "ua",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "borders": [
+   "BLR",
+   "HUN",
+   "MDA",
+   "POL",
+   "ROU",
+   "RUS",
+   "SVK"
+  ],
+  "landlocked": false,
+  "area": 603500,
+  "hasCapital": true
+ },
+ {
+  "id": "UNK",
+  "cca2": "xk",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "borders": [
+   "ALB",
+   "MKD",
+   "MNE",
+   "SRB"
+  ],
+  "landlocked": true,
+  "area": 10908,
+  "hasCapital": true
+ },
+ {
+  "id": "URY",
+  "cca2": "uy",
+  "region": "Americas",
+  "subregion": "South America",
+  "borders": [
+   "ARG",
+   "BRA"
+  ],
+  "landlocked": false,
+  "area": 181034,
+  "hasCapital": true
+ },
+ {
+  "id": "USA",
+  "cca2": "us",
+  "region": "Americas",
+  "subregion": "North America",
+  "borders": [
+   "CAN",
+   "MEX"
+  ],
+  "landlocked": false,
+  "area": 9372610,
+  "hasCapital": true
+ },
+ {
+  "id": "UZB",
+  "cca2": "uz",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "borders": [
+   "AFG",
+   "KAZ",
+   "KGZ",
+   "TJK",
+   "TKM"
+  ],
+  "landlocked": true,
+  "area": 447400,
+  "hasCapital": true
+ },
+ {
+  "id": "VAT",
+  "cca2": "va",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "borders": [
+   "ITA"
+  ],
+  "landlocked": true,
+  "area": 0.44,
+  "hasCapital": true
+ },
+ {
+  "id": "VCT",
+  "cca2": "vc",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "borders": [],
+  "landlocked": false,
+  "area": 389,
+  "hasCapital": true
+ },
+ {
+  "id": "VEN",
+  "cca2": "ve",
+  "region": "Americas",
+  "subregion": "South America",
+  "borders": [
+   "BRA",
+   "COL",
+   "GUY"
+  ],
+  "landlocked": false,
+  "area": 916445,
+  "hasCapital": true
+ },
+ {
+  "id": "VNM",
+  "cca2": "vn",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "borders": [
+   "KHM",
+   "CHN",
+   "LAO"
+  ],
+  "landlocked": false,
+  "area": 331212,
+  "hasCapital": true
+ },
+ {
+  "id": "VUT",
+  "cca2": "vu",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "borders": [],
+  "landlocked": false,
+  "area": 12189,
+  "hasCapital": true
+ },
+ {
+  "id": "WSM",
+  "cca2": "ws",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "borders": [],
+  "landlocked": false,
+  "area": 2842,
+  "hasCapital": true
+ },
+ {
+  "id": "YEM",
+  "cca2": "ye",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "borders": [
+   "OMN",
+   "SAU"
+  ],
+  "landlocked": false,
+  "area": 527968,
+  "hasCapital": true
+ },
+ {
+  "id": "ZAF",
+  "cca2": "za",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "borders": [
+   "BWA",
+   "LSO",
+   "MOZ",
+   "NAM",
+   "SWZ",
+   "ZWE"
+  ],
+  "landlocked": false,
+  "area": 1221037,
+  "hasCapital": true
+ },
+ {
+  "id": "ZMB",
+  "cca2": "zm",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "AGO",
+   "BWA",
+   "COD",
+   "MWI",
+   "MOZ",
+   "NAM",
+   "TZA",
+   "ZWE"
+  ],
+  "landlocked": true,
+  "area": 752612,
+  "hasCapital": true
+ },
+ {
+  "id": "ZWE",
+  "cca2": "zw",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "borders": [
+   "BWA",
+   "MOZ",
+   "ZAF",
+   "ZMB"
+  ],
+  "landlocked": true,
+  "area": 390757,
+  "hasCapital": true
+ }
+]
